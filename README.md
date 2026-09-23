@@ -1,5 +1,7 @@
-# R25EH041
+## Projects
 
-**INTRODUCTION**
+### Smart Blind Stick
+An IoT-based project designed to help visually impaired people detect obstacles using an ultrasonic sensor and provide alerts through a buzzer.
 
-Hello! I am Dhyan Shaji, a B.Tech student interested in Artificial Intelligence, Data Science, programming, and software development. I am currently developing my skills in languages such as C, C++, and Python while exploring technologies including Git, GitHub, Docker, and machine learning. This repository is created to document my learning journey, projects, experiments, and practical work in software development and artificial intelligence.
+### AI-Based Landslide Risk Monitoring System
+A software-based system that uses artificial intelligence and environmental data to monitor and predict landslide risk.
